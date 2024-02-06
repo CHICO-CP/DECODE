@@ -20,7 +20,10 @@ pkg install python-pip
 ```bash
 pip install pycryptodome
 ```
-
+### Make r to the repository
+```bash
+cd DECODE
+```
 ## Use
 ```bash
 python 'Decrypt Files.py' "/storage/emulated/0/Documents/Python decrypt files/MEGABOT/files/GTM-HISPEED🔒.ziv"
