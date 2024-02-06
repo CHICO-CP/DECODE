@@ -1,4 +1,8 @@
 ### 🌟 Welcome to the Best Script 🔥
+
+### Group: https://t.me/DecryptSP
+### Channel: https://t.me/TEAM_CHICO_CP
+
 # Decrypt Files.py
 
 This Python script allows you to decrypt files using the pycryptodome module.
