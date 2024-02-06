@@ -25,6 +25,14 @@ pkg install python-pip
 ```bash
 pip install pycryptodome
 ```
+### install git
+```bash
+pkg install git
+```
+### Install repo
+```bash
+git clone https://github.com/CHICO-CP/DECODE.git
+```
 ### Make r to the repository
 ```bash
 cd DECODE
