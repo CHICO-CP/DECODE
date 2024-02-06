@@ -23,8 +23,8 @@ pip install pycryptodome
 
 ## Use
 ```bash
-python "Decrypt Files.py" /you/rute/file.tnl
+python 'Decrypt Files.py' "/storage/emulated/0/Documents/Python decrypt files/MEGABOT/files/GTM-HISPEED🔒.ziv"
 ```
-## Notas
+## Notes
 
 - This script is designed to be used with encrypted files using the same encryption algorithm supported by pycryptodome.
