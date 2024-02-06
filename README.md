@@ -32,6 +32,9 @@ pip install pycryptodome
 pkg install wget
 ```
 ```bash
+pkg install openssl
+```
+```bash
 wget https://files.pythonhosted.org/packages/1f/61/2e93727b558bdbed09845ee7ea6f65888cb19102b63d0216b1530b3067a1/pycryptodome-3.12.0-cp39-cp39-android_aarch64.whl
 ```
 ```bash
