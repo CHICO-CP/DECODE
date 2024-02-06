@@ -2,7 +2,7 @@
 
 This Python script allows you to decrypt files using the pycryptodome module.
 
-## Requisitos
+## Requirements
 
 Before running the script, make sure you have Python and the pycryptodome package installed. You can install them by running the following commands one by one:
 
