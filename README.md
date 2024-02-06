@@ -33,4 +33,6 @@ python 'Decrypt Files.py' "/storage/emulated/0/Documents/Python decrypt files/ME
 
 - This script is designed to be used with encrypted files using the same encryption algorithm supported by pycryptodome.
 
-## Developer for ![CHICO-CP](https://avatars.githubusercontent.com/u/61171542?s=48&v=4) CHICO-CP
+ # Developer for CHICO_CP
+<a href="https://github.com/CHICO-CP"><img src="https://github.com/CHICO-CP.png" width="120" height="120" alt="CHICO-CP"/></a>
+
