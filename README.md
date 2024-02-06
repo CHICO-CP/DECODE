@@ -25,6 +25,19 @@ pkg install python-pip
 ```bash
 pip install pycryptodome
 ```
+### If you have an error installing it, use these commands:
+![Error](https://github.com/CHICO-CP/DECODE/blob/main/IGNORE/IMG_20240206_114430_502_edit_294009937424908.jpg) 
+
+```bash
+pkg install wget
+```
+```bash
+wget https://files.pythonhosted.org/packages/1f/61/2e93727b558bdbed09845ee7ea6f65888cb19102b63d0216b1530b3067a1/pycryptodome-3.12.0-cp39-cp39-android_aarch64.whl
+```
+```bash
+pip install pycryptodome-3.12.0-cp39-cp39-android_aarch64.whl
+```
+
 ### install git
 ```bash
 pkg install git
