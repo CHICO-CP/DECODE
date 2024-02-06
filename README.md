@@ -25,6 +25,10 @@ pip install pycryptodome
 ```bash
 python 'Decrypt Files.py' "/storage/emulated/0/Documents/Python decrypt files/MEGABOT/files/GTM-HISPEED🔒.ziv"
 ```
+## Example of Use
+
+![Example of use](https://github.com/CHICO-CP/DECODE/raw/main/IGNORE/Screenshot_20240206_111340.jpg)
+
 ## Notes
 
 - This script is designed to be used with encrypted files using the same encryption algorithm supported by pycryptodome.
